@@ -22,7 +22,6 @@ https://user-images.githubusercontent.com/111321889/197898426-0578fc4a-91ab-4a16
   ## 🔍 Endpoints
   - /message (GET, POST)
   - /user (GET,PUT,POST,DELETE)
-  - 
 ## ⚠️ Google authentication
 You need to create a Google Services account to run google authentication.
 
