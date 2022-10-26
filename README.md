@@ -1,6 +1,6 @@
 # React Chat BackEnd
 
-Project created with React and Node. You can find the frontEnd repository [here](https://github.com/LuccaZVPS/React-Chat-FrontEnd)
+Real time chat created with React and Node. You can find the frontEnd repository [here](https://github.com/LuccaZVPS/React-Chat-FrontEnd)
 
 ## 📽️ Demo 
 https://user-images.githubusercontent.com/111321889/197898426-0578fc4a-91ab-4a16-87f5-c37a1eade27d.mp4
